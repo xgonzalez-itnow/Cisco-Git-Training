@@ -3,6 +3,7 @@
 x = 'boo'
 if x == 'boo':
     print ('Eek')
+    print("HOLA")
 else:
     print ('Anyone there?')
 
